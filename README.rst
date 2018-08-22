@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fsecurity_monkey.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fsecurity_monkey?ref=badge_shield)
+
 .. image:: https://badge.waffle.io/Netflix/security_monkey.png?label=ready&title=Ready 
  :target: https://waffle.io/Netflix/security_monkey
  :alt: 'Stories in Ready'
@@ -22,3 +24,6 @@ Project resources
 .. image:: https://badges.gitter.im/Join%20Chat.svg
    :alt: Join the chat at https://gitter.im/Netflix/security_monkey
    :target: https://gitter.im/Netflix/security_monkey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fsecurity_monkey.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fsecurity_monkey?ref=badge_large)
